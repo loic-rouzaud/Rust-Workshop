@@ -1,5 +1,6 @@
 # Rust Workshop
 
+documentation : https://doc.rust-lang.org/book/title-page.html
 insprations : https://github.com/rust-lang/rustlings/tree/main
 
 Commandes à faire :
