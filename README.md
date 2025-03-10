@@ -11,4 +11,6 @@ rustc exercice.rs # Compilateur Rust
 ./exercice        # Exécuter Rust
 ```
 
-Dans les exercices, il y a des "TODO" à remplir.
+Dans les exercices, il y a des "TODO" à remplir. Des exemples de solutions sont disponibles dans le répertoire `solutions` du repo rustlings.
+
+Il est cependant recommandé de lire la documentation
