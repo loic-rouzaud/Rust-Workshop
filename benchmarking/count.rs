@@ -10,7 +10,7 @@ fn pi_calc() -> f64 {
     pi *= 4.0;
     let duration = start.elapsed();
 
-    println!("Temps d'exécution en Rust : {:?}ns\n", duration.as_nanos()); // nanoseconds because if it's ms then result is 0 lol
+    println!("Temps d'exécution en Rust : {:?}ns\n", duration.as_nanos()); /* nanoseconds parce que as_milliseconds affiche zero lol */
     pi
 }
 
