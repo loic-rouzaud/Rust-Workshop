@@ -7,7 +7,7 @@
 
 ## temps écoulés :
 
-Calcul de pi : https://fr.wikipedia.org/wiki/Pi
+Calcul de pi : https://fr.wikipedia.org/wiki/Formule_de_Leibniz#S%C3%A9rie_altern%C3%A9e
 
 | Opération | Temps écoulé |
 |    ---    |      ---     |
