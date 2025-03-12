@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <time.h>
+#include <math.h>
 
 int main()
 {
@@ -9,7 +10,7 @@ int main()
 
     start = clock();
     for (int n = 0; n < 1000000; n++) {
-        pi += (double)(-1) / (2 * n + 1);
+        pi += pow(-1, n) / (2.0 * n + 1.0);
     }
     pi *= 4;
     end = clock();
