@@ -15,4 +15,4 @@ Calcul de pi, la série de Leibniz : https://fr.wikipedia.org/wiki/Formule_de_Le
 | c | 3.535 ms |
 | js | 11.361 ms  |
 | python | 259.97 ms  |
-| Haskell | 7.0e-2 ms |
+| Haskell |  0.132 ms |
