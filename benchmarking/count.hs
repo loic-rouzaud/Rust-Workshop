@@ -11,4 +11,4 @@ main = do
     end <- getCPUTime
     let timeMs = fromIntegral (end - start) / (10^9)
 
-    putStrLn $ "Temps d'exécution en Haskell: " ++ show timeMs ++ " ms"
+    putStrLn $ "Temps d'exécution en Haskell : " ++ show timeMs ++ " ms"
