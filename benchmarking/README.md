@@ -12,5 +12,5 @@ Calcul de pi : https://fr.wikipedia.org/wiki/Formule_de_Leibniz#S%C3%A9rie_alter
 | Opération | Temps écoulé |
 |    ---    |      ---     |
 | Opération rust | 83ns    |
-| Opération c | 3.535000ms |
+| Opération c | 3.535ms |
 | Opération js | 11.361ms  |
