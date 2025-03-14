@@ -10,4 +10,4 @@ start = time.time()
 pi_approx = calculer_pi(1_000_000)
 end = time.time()
 
-print(f"Temps d'exécution en Python : {(end - start) * 1000:.2f}ms")
+print(f"Temps d'exécution en Python : {(end - start) * 1000:.2f} ms")
